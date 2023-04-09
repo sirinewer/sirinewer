@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->[![MasterHead](<iframe src="https://giphy.com/embed/wPyDWwurn8XEWdR9ol" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/space-adventure-astronaut-wPyDWwurn8XEWdR9ol">via GIPHY</a></p>)](https://sirinewer.io)
+-->
 <h1 align="center">Hi 👋, I'm Sirine Ourtani</h1>
 <h3 align="center">I am enthusiastic about learning and applying new technologies to solve business challenges</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirinewer&label=Profile%20views&color=0e75b6&style=flat" alt="sirinewer" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
